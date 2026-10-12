@@ -1,0 +1,19 @@
+{
+  "title": "Testing a witness for AI agents: scenarios, prompts, model votes and method note",
+  "upload_type": "dataset",
+  "description": "Method note, 158 scripted scenarios with expected labels, all model verdicts, reviewer prompts v1 and v2, freeze manifests and analysis scripts for a three-round test of whether language models can flag agent steps that depart from a declared purpose. Scripted synthetic traces only; not independent validation and no claim about live agents.",
+  "creators": [
+    {
+      "name": "SPOC-App"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "AI agents",
+    "accountability",
+    "benchmark",
+    "LLM-as-judge",
+    "purpose fit"
+  ],
+  "access_right": "open"
+}

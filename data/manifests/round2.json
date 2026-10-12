@@ -1,0 +1,13 @@
+{
+ "round": 2,
+ "prompt_sha256": "897bfcacf124fc6ee9dcc9d82346301f100e69f1c4a136d174bd0e1e0163bdaf",
+ "round2_sha256": "112b2d2da632df4120453251de373d147f639be3123e8867adac8d460f96b22e",
+ "reviewers": [
+  "gpt_6_luna",
+  "claude_sonnet_5_5",
+  "claude_opus_5_5"
+ ],
+ "repeats": 5,
+ "order_seed": 20261012,
+ "combined_sha256": "b7adf54c9b03e96a6b0b60001c50d1d2fc7d15b5043d7869c23bb9d6a3dca5f3"
+}

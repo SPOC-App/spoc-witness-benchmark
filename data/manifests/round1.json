@@ -1,0 +1,17 @@
+{
+ "prompt_sha256": "897bfcacf124fc6ee9dcc9d82346301f100e69f1c4a136d174bd0e1e0163bdaf",
+ "dev_sha256": "251c65f8ffc9aa39af243244830b13cf827ad72fcb322e20f755ea499f609ff5",
+ "holdout_sha256": "893683b1280441a6f7e71ef3fe60876c948dfecf6f9fac90d96d737f87336f83",
+ "combined_sha256": "97b6408c113af2ee00c9b6ed4543eebe914087750869f5963aed9bfc6cc6585e",
+ "reviewers": [
+  "gpt_6_luna",
+  "claude_sonnet_5_5",
+  "claude_opus_5_5"
+ ],
+ "repeats": 5,
+ "order_seed": 20261011,
+ "output_schema": {
+  "flag": "boolean",
+  "rationale": "string"
+ }
+}
